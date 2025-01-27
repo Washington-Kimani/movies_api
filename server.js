@@ -7,6 +7,7 @@ import dotenv from 'dotenv';
 //importing routes
 import authRoutes from './routes/auth.routes.js';
 import moviesRoutes from './routes/movie.routes.js';
+import actorsRoutes from './routes/actor.routes.js';
 
 // import db connection
 import connectDB from "./configs/db.js";
@@ -31,6 +32,8 @@ app.use(cors());
 app.use('/api/auth', authRoutes);
 // movies route
 app.use('/api/movies', moviesRoutes);
+// actor routes
+app.use('/api/actors', actorsRoutes)
 
 
 // connect to database

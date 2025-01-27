@@ -5,7 +5,7 @@
     "birthPlace": "Summit, New Jersey, USA",
     "birthDate": "1949-06-22",
     "bio": "Meryl Streep is widely regarded as one of the greatest actresses of all time. She has received more Academy Award nominations than any other actor or actress in history.",
-    "photo": "https://example.com/meryl_streep.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Meryl_Streep_December_2018_%28cropped%29.jpg/800px-Meryl_Streep_December_2018_%28cropped%29.jpg",
     "children": ["Henry Gummer", "Mamie Gummer", "Grace Gummer"],
     "movies": [
       "The Devil Wears Prada",
@@ -20,7 +20,7 @@
     "birthPlace": "Concord, California, USA",
     "birthDate": "1956-07-09",
     "bio": "Tom Hanks is an American actor and filmmaker known for his roles in both comedic and dramatic films. He has won two Academy Awards for his roles in 'Philadelphia' and 'Forrest Gump'.",
-    "photo": "https://example.com/tom_hanks.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Tom_Hanks_TIFF_2019.jpg/220px-Tom_Hanks_TIFF_2019.jpg",
     "children": ["Colin Hanks", "Elizabeth Hanks"],
     "movies": [
       "Forrest Gump",
@@ -35,7 +35,7 @@
     "birthPlace": "New York City, New York, USA",
     "birthDate": "1984-11-22",
     "bio": "Scarlett Johansson is an American actress known for her versatile roles in both action-packed blockbusters and dramatic films. She is also known for her role as Black Widow in the Marvel Cinematic Universe.",
-    "photo": "https://example.com/scarlett_johansson.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%2C_2%29.jpg/220px-Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%2C_2%29.jpg",
     "children": ["Rose Dorothy Dauriac"],
     "movies": [
       "Lost in Translation",
@@ -50,7 +50,7 @@
     "birthPlace": "Philadelphia, Pennsylvania, USA",
     "birthDate": "1968-09-25",
     "bio": "Will Smith is an American actor, producer, and rapper. He became famous for his role in the 1990s television series 'The Fresh Prince of Bel-Air' and later established himself as a major movie star.",
-    "photo": "https://example.com/will_smith.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg/220px-TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg",
     "children": ["Trey Smith", "Jaden Smith", "Willow Smith"],
     "movies": [
       "Men in Black",
@@ -65,7 +65,7 @@
     "birthPlace": "Los Angeles, California, USA",
     "birthDate": "1975-06-04",
     "bio": "Angelina Jolie is an American actress, filmmaker, and humanitarian. She has received multiple awards, including an Academy Award for Best Supporting Actress for 'Girl, Interrupted'.",
-    "photo": "https://example.com/angelina_jolie.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Angelina_Jolie-643531_%28cropped%29.jpg/220px-Angelina_Jolie-643531_%28cropped%29.jpg",
     "children": ["Maddox Chivan", "Zahara Marley", "Shiloh Nouvel"],
     "movies": [
       "Maleficent",
@@ -80,7 +80,7 @@
     "birthPlace": "Shawnee, Oklahoma, USA",
     "birthDate": "1963-12-18",
     "bio": "Brad Pitt is an American actor and producer known for his roles in films like 'Fight Club' and 'Once Upon a Time in Hollywood'. He has received multiple accolades, including an Academy Award for Best Supporting Actor.",
-    "photo": "https://example.com/brad_pitt.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/220px-Brad_Pitt-69858.jpg",
     "children": ["Maddox Chivan", "Pax Thien", "Zahara Marley"],
     "movies": [
       "Fight Club",
@@ -95,7 +95,7 @@
     "birthPlace": "Owensboro, Kentucky, USA",
     "birthDate": "1963-06-09",
     "bio": "Johnny Depp is an American actor, producer, and musician known for his unconventional and eccentric roles. He became famous for portraying Captain Jack Sparrow in the 'Pirates of the Caribbean' series.",
-    "photo": "https://example.com/johnny_depp.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Johnny_Depp_2020.jpg/220px-Johnny_Depp_2020.jpg",
     "children": ["Lily-Rose Depp", "Jack Depp"],
     "movies": [
       "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -110,7 +110,7 @@
     "birthPlace": "Scottsdale, Arizona, USA",
     "birthDate": "1988-11-06",
     "bio": "Emma Stone is an American actress known for her roles in both comedies and dramas. She won an Academy Award for her role in 'La La Land'.",
-    "photo": "https://example.com/emma_stone.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Emma_Stone_at_the_2024_New_York_Film_Festival_1_%28cropped%29.jpg/220px-Emma_Stone_at_the_2024_New_York_Film_Festival_1_%28cropped%29.jpg",
     "children": [],
     "movies": [
       "La La Land",
@@ -125,7 +125,7 @@
     "birthPlace": "Vancouver, Canada",
     "birthDate": "1976-10-23",
     "bio": "Ryan Reynolds is a Canadian actor and producer known for his comedic roles in films like 'Deadpool' and 'The Proposal'. He has received numerous awards for his performances.",
-    "photo": "https://example.com/ryan_reynolds.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg/220px-Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg",
     "children": ["James Reynolds", "Inez Reynolds"],
     "movies": [
       "Deadpool",
@@ -140,7 +140,7 @@
     "birthPlace": "Melbourne, Australia",
     "birthDate": "1983-08-11",
     "bio": "Chris Hemsworth is an Australian actor best known for playing the role of Thor in the Marvel Cinematic Universe. He has starred in several blockbuster films.",
-    "photo": "https://example.com/chris_hemsworth.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Chris_Hemsworth_by_Gage_Skidmore_3.jpg/220px-Chris_Hemsworth_by_Gage_Skidmore_3.jpg",
     "children": ["India Rose Hemsworth", "Sasha Hemsworth", "Tristan Hemsworth"],
     "movies": [
       "Thor",
@@ -155,7 +155,7 @@
     "birthPlace": "Benoni, South Africa",
     "birthDate": "1975-08-07",
     "bio": "Charlize Theron is a South African and American actress and producer. She has received numerous accolades, including an Academy Award for her role in 'Monster'.",
-    "photo": "https://example.com/charlize_theron.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Charlize-theron-IMG_6045.jpg/220px-Charlize-theron-IMG_6045.jpg",
     "children": ["Jackson Theron", "August Theron"],
     "movies": [
       "Mad Max: Fury Road",
@@ -170,7 +170,7 @@
     "birthPlace": "Beirut, Lebanon",
     "birthDate": "1964-09-02",
     "bio": "Keanu Reeves is a Canadian actor, producer, and director best known for his roles in 'The Matrix' series and 'John Wick'. He is widely admired for his humility and generosity.",
-    "photo": "https://example.com/keanu_reeves.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/LanaDRPrimavera310524_%2810_of_155%29_%2853765300307%29_%28cropped%29.jpg/800px-LanaDRPrimavera310524_%2810_of_155%29_%2853765300307%29_%28cropped%29.jpg",
     "children": [],
     "movies": [
       "The Matrix",
@@ -185,7 +185,7 @@
     "birthPlace": "Reading, Berkshire, England",
     "birthDate": "1975-10-05",
     "bio": "Kate Winslet is an English actress known for her roles in both independent and big-budget films. She is famous for her performance in 'Titanic'.",
-    "photo": "https://example.com/kate_winslet.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kate_Winslet_at_the_2017_Toronto_International_Film_Festival_%28cropped%29.jpg/800px-Kate_Winslet_at_the_2017_Toronto_International_Film_Festival_%28cropped%29.jpg",
     "children": ["Mia Threapleton", "Joe Mendes"],
     "movies": [
       "Titanic",
@@ -200,7 +200,7 @@
     "birthPlace": "Washington, D.C., USA",
     "birthDate": "1937-06-01",
     "bio": "Morgan Freeman is an American actor, director, and narrator known for his distinctive voice and roles in films such as 'The Shawshank Redemption' and 'Driving Miss Daisy'.",
-    "photo": "https://example.com/morgan_freeman.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg/800px-Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg",
     "children": ["Alfonso Freeman", "Saifoulaye Freeman"],
     "movies": [
       "The Shawshank Redemption",
@@ -215,7 +215,7 @@
     "birthPlace": "Washington, D.C., USA",
     "birthDate": "1948-12-21",
     "bio": "Samuel L. Jackson is an American actor and film producer known for his roles in the 'Star Wars' franchise, 'Pulp Fiction', and the Marvel Cinematic Universe.",
-    "photo": "https://example.com/samuel_l_jackson.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/800px-SamuelLJackson.jpg",
     "children": ["Zoe Jackson", "LaTanya Richardson"],
     "movies": [
       "Pulp Fiction",
@@ -230,82 +230,7 @@
     "birthPlace": "Jerusalem, Israel",
     "birthDate": "1981-06-09",
     "bio": "Natalie Portman is an Israeli-American actress, director, and producer known for her roles in films like 'Black Swan' and 'V for Vendetta'.",
-    "photo": "https://example.com/natalie_portman.jpg",
-    "children": ["Aleph Portman-Millepied"],
-    "movies": [
-      "Black Swan",
-      "V for Vendetta",
-      "Star Wars: Episode I - The Phantom Menace"
-    ],
-    "createdAt": "2025-01-26T00:00:00Z"
-  },
-  {
-    "name": "Will Smith",
-    "age": 56,
-    "birthPlace": "Philadelphia, Pennsylvania, USA",
-    "birthDate": "1968-09-25",
-    "bio": "Will Smith is an American actor, producer, and rapper. He became famous for his role in the 1990s television series 'The Fresh Prince of Bel-Air' and later established himself as a major movie star.",
-    "photo": "https://example.com/will_smith.jpg",
-    "children": ["Trey Smith", "Jaden Smith", "Willow Smith"],
-    "movies": [
-      "Men in Black",
-      "Independence Day",
-      "The Pursuit of Happyness"
-    ],
-    "createdAt": "2025-01-26T00:00:00Z"
-  },
-  {
-    "name": "Angelina Jolie",
-    "age": 48,
-    "birthPlace": "Los Angeles, California, USA",
-    "birthDate": "1975-06-04",
-    "bio": "Angelina Jolie is an American actress, filmmaker, and humanitarian. She has received multiple awards, including an Academy Award for Best Supporting Actress for 'Girl, Interrupted'.",
-    "photo": "https://example.com/angelina_jolie.jpg",
-    "children": ["Maddox Chivan", "Zahara Marley", "Shiloh Nouvel"],
-    "movies": [
-      "Maleficent",
-      "Mr. & Mrs. Smith",
-      "Lara Croft: Tomb Raider"
-    ],
-    "createdAt": "2025-01-26T00:00:00Z"
-  },
-  {
-    "name": "Charlize Theron",
-    "age": 48,
-    "birthPlace": "Benoni, South Africa",
-    "birthDate": "1975-08-07",
-    "bio": "Charlize Theron is a South African and American actress and producer. She has received numerous accolades, including an Academy Award for her role in 'Monster'.",
-    "photo": "https://example.com/charlize_theron.jpg",
-    "children": ["Jackson Theron", "August Theron"],
-    "movies": [
-      "Mad Max: Fury Road",
-      "Monster",
-      "The Italian Job"
-    ],
-    "createdAt": "2025-01-26T00:00:00Z"
-  },
-  {
-    "name": "Kate Winslet",
-    "age": 49,
-    "birthPlace": "Reading, Berkshire, England",
-    "birthDate": "1975-10-05",
-    "bio": "Kate Winslet is an English actress known for her roles in both independent and big-budget films. She is famous for her performance in 'Titanic'.",
-    "photo": "https://example.com/kate_winslet.jpg",
-    "children": ["Mia Threapleton", "Joe Mendes"],
-    "movies": [
-      "Titanic",
-      "Eternal Sunshine of the Spotless Mind",
-      "The Reader"
-    ],
-    "createdAt": "2025-01-26T00:00:00Z"
-  },
-  {
-    "name": "Natalie Portman",
-    "age": 43,
-    "birthPlace": "Jerusalem, Israel",
-    "birthDate": "1981-06-09",
-    "bio": "Natalie Portman is an Israeli-American actress, director, and producer known for her roles in films like 'Black Swan' and 'V for Vendetta'.",
-    "photo": "https://example.com/natalie_portman.jpg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Natalie_Portman_2023.jpg/220px-Natalie_Portman_2023.jpg",
     "children": ["Aleph Portman-Millepied"],
     "movies": [
       "Black Swan",
