@@ -22,8 +22,6 @@ This API uses the following environment variables:
 - `/movies/{id}` - Get a specific movie by ID
 - `/actors` - Get all actors
 - `/actors/{id}` - Get a specific actor by ID
-- `/directors` - Get all directors
-- `/directors/{id}` - Get a specific director by ID
 - `/genres` - Get all genres
 - `/genres/{id}` - Get a specific genre by ID
 

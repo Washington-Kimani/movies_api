@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Meryl Streep",
+    "age": 75,
+    "birthPlace": "Summit, New Jersey, USA",
+    "birthDate": "1949-06-22",
+    "bio": "Meryl Streep is widely regarded as one of the greatest actresses of all time. She has received more Academy Award nominations than any other actor or actress in history.",
+    "photo": "https://example.com/meryl_streep.jpg",
+    "children": ["Henry Gummer", "Mamie Gummer", "Grace Gummer"],
+    "movies": [
+      "The Devil Wears Prada",
+      "Sophie's Choice",
+      "Kramer vs. Kramer"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Tom Hanks",
+    "age": 67,
+    "birthPlace": "Concord, California, USA",
+    "birthDate": "1956-07-09",
+    "bio": "Tom Hanks is an American actor and filmmaker known for his roles in both comedic and dramatic films. He has won two Academy Awards for his roles in 'Philadelphia' and 'Forrest Gump'.",
+    "photo": "https://example.com/tom_hanks.jpg",
+    "children": ["Colin Hanks", "Elizabeth Hanks"],
+    "movies": [
+      "Forrest Gump",
+      "Cast Away",
+      "Saving Private Ryan"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Scarlett Johansson",
+    "age": 40,
+    "birthPlace": "New York City, New York, USA",
+    "birthDate": "1984-11-22",
+    "bio": "Scarlett Johansson is an American actress known for her versatile roles in both action-packed blockbusters and dramatic films. She is also known for her role as Black Widow in the Marvel Cinematic Universe.",
+    "photo": "https://example.com/scarlett_johansson.jpg",
+    "children": ["Rose Dorothy Dauriac"],
+    "movies": [
+      "Lost in Translation",
+      "Avengers: Endgame",
+      "Marriage Story"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Will Smith",
+    "age": 56,
+    "birthPlace": "Philadelphia, Pennsylvania, USA",
+    "birthDate": "1968-09-25",
+    "bio": "Will Smith is an American actor, producer, and rapper. He became famous for his role in the 1990s television series 'The Fresh Prince of Bel-Air' and later established himself as a major movie star.",
+    "photo": "https://example.com/will_smith.jpg",
+    "children": ["Trey Smith", "Jaden Smith", "Willow Smith"],
+    "movies": [
+      "Men in Black",
+      "Independence Day",
+      "The Pursuit of Happyness"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Angelina Jolie",
+    "age": 48,
+    "birthPlace": "Los Angeles, California, USA",
+    "birthDate": "1975-06-04",
+    "bio": "Angelina Jolie is an American actress, filmmaker, and humanitarian. She has received multiple awards, including an Academy Award for Best Supporting Actress for 'Girl, Interrupted'.",
+    "photo": "https://example.com/angelina_jolie.jpg",
+    "children": ["Maddox Chivan", "Zahara Marley", "Shiloh Nouvel"],
+    "movies": [
+      "Maleficent",
+      "Mr. & Mrs. Smith",
+      "Lara Croft: Tomb Raider"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Brad Pitt",
+    "age": 60,
+    "birthPlace": "Shawnee, Oklahoma, USA",
+    "birthDate": "1963-12-18",
+    "bio": "Brad Pitt is an American actor and producer known for his roles in films like 'Fight Club' and 'Once Upon a Time in Hollywood'. He has received multiple accolades, including an Academy Award for Best Supporting Actor.",
+    "photo": "https://example.com/brad_pitt.jpg",
+    "children": ["Maddox Chivan", "Pax Thien", "Zahara Marley"],
+    "movies": [
+      "Fight Club",
+      "Once Upon a Time in Hollywood",
+      "12 Monkeys"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Johnny Depp",
+    "age": 61,
+    "birthPlace": "Owensboro, Kentucky, USA",
+    "birthDate": "1963-06-09",
+    "bio": "Johnny Depp is an American actor, producer, and musician known for his unconventional and eccentric roles. He became famous for portraying Captain Jack Sparrow in the 'Pirates of the Caribbean' series.",
+    "photo": "https://example.com/johnny_depp.jpg",
+    "children": ["Lily-Rose Depp", "Jack Depp"],
+    "movies": [
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Edward Scissorhands",
+      "Finding Neverland"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Emma Stone",
+    "age": 36,
+    "birthPlace": "Scottsdale, Arizona, USA",
+    "birthDate": "1988-11-06",
+    "bio": "Emma Stone is an American actress known for her roles in both comedies and dramas. She won an Academy Award for her role in 'La La Land'.",
+    "photo": "https://example.com/emma_stone.jpg",
+    "children": [],
+    "movies": [
+      "La La Land",
+      "Easy A",
+      "The Favourite"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Ryan Reynolds",
+    "age": 48,
+    "birthPlace": "Vancouver, Canada",
+    "birthDate": "1976-10-23",
+    "bio": "Ryan Reynolds is a Canadian actor and producer known for his comedic roles in films like 'Deadpool' and 'The Proposal'. He has received numerous awards for his performances.",
+    "photo": "https://example.com/ryan_reynolds.jpg",
+    "children": ["James Reynolds", "Inez Reynolds"],
+    "movies": [
+      "Deadpool",
+      "The Proposal",
+      "Van Wilder"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Chris Hemsworth",
+    "age": 40,
+    "birthPlace": "Melbourne, Australia",
+    "birthDate": "1983-08-11",
+    "bio": "Chris Hemsworth is an Australian actor best known for playing the role of Thor in the Marvel Cinematic Universe. He has starred in several blockbuster films.",
+    "photo": "https://example.com/chris_hemsworth.jpg",
+    "children": ["India Rose Hemsworth", "Sasha Hemsworth", "Tristan Hemsworth"],
+    "movies": [
+      "Thor",
+      "Avengers: Endgame",
+      "Extraction"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Charlize Theron",
+    "age": 48,
+    "birthPlace": "Benoni, South Africa",
+    "birthDate": "1975-08-07",
+    "bio": "Charlize Theron is a South African and American actress and producer. She has received numerous accolades, including an Academy Award for her role in 'Monster'.",
+    "photo": "https://example.com/charlize_theron.jpg",
+    "children": ["Jackson Theron", "August Theron"],
+    "movies": [
+      "Mad Max: Fury Road",
+      "Monster",
+      "The Italian Job"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Keanu Reeves",
+    "age": 60,
+    "birthPlace": "Beirut, Lebanon",
+    "birthDate": "1964-09-02",
+    "bio": "Keanu Reeves is a Canadian actor, producer, and director best known for his roles in 'The Matrix' series and 'John Wick'. He is widely admired for his humility and generosity.",
+    "photo": "https://example.com/keanu_reeves.jpg",
+    "children": [],
+    "movies": [
+      "The Matrix",
+      "John Wick",
+      "Speed"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Kate Winslet",
+    "age": 49,
+    "birthPlace": "Reading, Berkshire, England",
+    "birthDate": "1975-10-05",
+    "bio": "Kate Winslet is an English actress known for her roles in both independent and big-budget films. She is famous for her performance in 'Titanic'.",
+    "photo": "https://example.com/kate_winslet.jpg",
+    "children": ["Mia Threapleton", "Joe Mendes"],
+    "movies": [
+      "Titanic",
+      "Eternal Sunshine of the Spotless Mind",
+      "The Reader"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Morgan Freeman",
+    "age": 87,
+    "birthPlace": "Washington, D.C., USA",
+    "birthDate": "1937-06-01",
+    "bio": "Morgan Freeman is an American actor, director, and narrator known for his distinctive voice and roles in films such as 'The Shawshank Redemption' and 'Driving Miss Daisy'.",
+    "photo": "https://example.com/morgan_freeman.jpg",
+    "children": ["Alfonso Freeman", "Saifoulaye Freeman"],
+    "movies": [
+      "The Shawshank Redemption",
+      "Driving Miss Daisy",
+      "Million Dollar Baby"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Samuel L. Jackson",
+    "age": 75,
+    "birthPlace": "Washington, D.C., USA",
+    "birthDate": "1948-12-21",
+    "bio": "Samuel L. Jackson is an American actor and film producer known for his roles in the 'Star Wars' franchise, 'Pulp Fiction', and the Marvel Cinematic Universe.",
+    "photo": "https://example.com/samuel_l_jackson.jpg",
+    "children": ["Zoe Jackson", "LaTanya Richardson"],
+    "movies": [
+      "Pulp Fiction",
+      "Avengers: Endgame",
+      "Snakes on a Plane"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Natalie Portman",
+    "age": 43,
+    "birthPlace": "Jerusalem, Israel",
+    "birthDate": "1981-06-09",
+    "bio": "Natalie Portman is an Israeli-American actress, director, and producer known for her roles in films like 'Black Swan' and 'V for Vendetta'.",
+    "photo": "https://example.com/natalie_portman.jpg",
+    "children": ["Aleph Portman-Millepied"],
+    "movies": [
+      "Black Swan",
+      "V for Vendetta",
+      "Star Wars: Episode I - The Phantom Menace"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Will Smith",
+    "age": 56,
+    "birthPlace": "Philadelphia, Pennsylvania, USA",
+    "birthDate": "1968-09-25",
+    "bio": "Will Smith is an American actor, producer, and rapper. He became famous for his role in the 1990s television series 'The Fresh Prince of Bel-Air' and later established himself as a major movie star.",
+    "photo": "https://example.com/will_smith.jpg",
+    "children": ["Trey Smith", "Jaden Smith", "Willow Smith"],
+    "movies": [
+      "Men in Black",
+      "Independence Day",
+      "The Pursuit of Happyness"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Angelina Jolie",
+    "age": 48,
+    "birthPlace": "Los Angeles, California, USA",
+    "birthDate": "1975-06-04",
+    "bio": "Angelina Jolie is an American actress, filmmaker, and humanitarian. She has received multiple awards, including an Academy Award for Best Supporting Actress for 'Girl, Interrupted'.",
+    "photo": "https://example.com/angelina_jolie.jpg",
+    "children": ["Maddox Chivan", "Zahara Marley", "Shiloh Nouvel"],
+    "movies": [
+      "Maleficent",
+      "Mr. & Mrs. Smith",
+      "Lara Croft: Tomb Raider"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Charlize Theron",
+    "age": 48,
+    "birthPlace": "Benoni, South Africa",
+    "birthDate": "1975-08-07",
+    "bio": "Charlize Theron is a South African and American actress and producer. She has received numerous accolades, including an Academy Award for her role in 'Monster'.",
+    "photo": "https://example.com/charlize_theron.jpg",
+    "children": ["Jackson Theron", "August Theron"],
+    "movies": [
+      "Mad Max: Fury Road",
+      "Monster",
+      "The Italian Job"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Kate Winslet",
+    "age": 49,
+    "birthPlace": "Reading, Berkshire, England",
+    "birthDate": "1975-10-05",
+    "bio": "Kate Winslet is an English actress known for her roles in both independent and big-budget films. She is famous for her performance in 'Titanic'.",
+    "photo": "https://example.com/kate_winslet.jpg",
+    "children": ["Mia Threapleton", "Joe Mendes"],
+    "movies": [
+      "Titanic",
+      "Eternal Sunshine of the Spotless Mind",
+      "The Reader"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "name": "Natalie Portman",
+    "age": 43,
+    "birthPlace": "Jerusalem, Israel",
+    "birthDate": "1981-06-09",
+    "bio": "Natalie Portman is an Israeli-American actress, director, and producer known for her roles in films like 'Black Swan' and 'V for Vendetta'.",
+    "photo": "https://example.com/natalie_portman.jpg",
+    "children": ["Aleph Portman-Millepied"],
+    "movies": [
+      "Black Swan",
+      "V for Vendetta",
+      "Star Wars: Episode I - The Phantom Menace"
+    ],
+    "createdAt": "2025-01-26T00:00:00Z"
+  }
+]
