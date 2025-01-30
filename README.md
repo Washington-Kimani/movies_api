@@ -20,10 +20,10 @@ This API uses the following environment variables:
 ## Endpoints
 - `/movies` - Get all movies
 - `/movies/{id}` - Get a specific movie by ID
+- `/movies/search?q=The Dark Knight` - Search for movies by title
 - `/actors` - Get all actors
 - `/actors/{id}` - Get a specific actor by ID
-- `/genres` - Get all genres
-- `/genres/{id}` - Get a specific genre by ID
+- `/actors/search?q=Chris Hemsworth` - Search for actors by name
 
 ## Usage
 You can first use the data in the json files to create the first few entries. If you're using mongoDB, use the MongoDB Compass to import the data. This is possible for atlas as well.
