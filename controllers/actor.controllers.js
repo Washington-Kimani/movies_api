@@ -34,9 +34,6 @@ export const getActorById = async (req, res) => {
 export const searchActors = async (req, res) => {
     const query = req.query.q;
 
-    // Log the query to debug
-    console.log('Search Query:', query);
-
     // Check if the query looks like an ObjectId
     if (mongoose.Types.ObjectId.isValid(query)) {
         return res.status(400).json({ error: 'Invalid search query (ObjectId format). Please search by name or bio.' });
@@ -49,7 +46,7 @@ export const searchActors = async (req, res) => {
         }).exec();
 
         // Return the results as JSON
-        res.status(200).json(actors[0]);
+        res.status(200).json(actors);
     } catch (error) {
         console.error(error);
         res.status(500).json({ error: 'An error occurred while searching for actors.' });

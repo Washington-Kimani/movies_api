@@ -34,12 +34,9 @@ export const getMovieById = async (req, res) => {
 export const searchMovie = async (req, res) => {
     const query = req.query.q;
 
-    // Log the query to debug
-    console.log('Search Query:', query);
-
     // Check if the query looks like an ObjectId
     if (mongoose.Types.ObjectId.isValid(query)) {
-        return res.status(400).json({ error: 'Invalid search query (ObjectId format). Please search by title.' });
+        return res.status(400).json({ error: 'Invalid search query (ObjectId format). Please search by movie name.' });
     }
 
     try {

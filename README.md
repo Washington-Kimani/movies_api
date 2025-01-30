@@ -9,6 +9,13 @@ npm install
 npm start
 ```
 This will start the API on `http://localhost:5000`.
+<br/>
+<br/>
+* The base URL of the API is `http://localhost:5000/api`.
+* <b>Note:</b> The API uses JWT authentication. To access the API, you need to provide a valid JWT token in the `Authorization` header of the request. You can get a JWT token by logging in or registering.
+* For login the link is `http://localhost:5000/api/auth/login`
+* For register the link is `http://localhost:5000/api/auth/register`
+* 
 ## Environment Variables
 This API uses the following environment variables:
 - `PORT` - The port to run the API on (default: 5000)
@@ -42,5 +49,3 @@ fetch('http://localhost:5000/api/movies')
 
 This will make a GET request to `http://localhost:5000/api/movies` and return all movies in the response. The response will be in JSON format, so we can parse it using the `json()` method. The `then()` method is used to handle the response and log the data to the console. If there is an error, the `catch()` method will handle it and log the error to the console.
 You can replace `http://localhost:5000/api/movies` with the appropriate endpoint and ID to get the data you need.
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
