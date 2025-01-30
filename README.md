@@ -4,11 +4,11 @@ This API provides information about movies, actors, directors, and genres.
 To get started, you can clone this repository and run the API using the following commands:
 ```bash
 git clone https://github.com/Washington-Kimani/movies_api.git
-cd movies-api
+cd movies_api
 npm install
-npm start
+npm run dev
 ```
-This will start the API on `http://localhost:5000`.
+This will start the development server on `http://localhost:5000`.
 <br/>
 <br/>
 * The base URL of the API is `http://localhost:5000/api`.
@@ -26,10 +26,10 @@ This API uses the following environment variables:
 - `CLOUDINARY_API_SECRET` - The Cloudinary API secret to use for image uploads (default: `your_api_secret`)
 ## Endpoints
 - `/movies` - Get all movies
-- `/movies/{id}` - Get a specific movie by ID
+- `/movies/id` - Get a specific movie by ID
 - `/movies/search?q=The Dark Knight` - Search for movies by title
 - `/actors` - Get all actors
-- `/actors/{id}` - Get a specific actor by ID
+- `/actors/id` - Get a specific actor by ID
 - `/actors/search?q=Chris Hemsworth` - Search for actors by name
 
 ## Usage
