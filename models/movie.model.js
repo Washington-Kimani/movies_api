@@ -40,6 +40,9 @@ const movieSchema = new mongoose.Schema({
     },
 }, {timestamps: true });
 
+
+movieSchema.index({ name: 'text', description: 'text' });
+
 const Movie = mongoose.model('movie', movieSchema);
 
 export default Movie;

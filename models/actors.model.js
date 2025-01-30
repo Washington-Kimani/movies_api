@@ -30,14 +30,16 @@ const actorSchema = new mongoose.Schema({
         type: [String],
     },
     movies: {
-        type: Schema.Types.ObjectId,
-        ref: 'Movie',
+        type: [String],
+        required: true,
     },
     createdAt: {
         type: Date,
         default: Date.now,
     }
 })
+
+actorSchema.index({ name: 'text', bio: 'text' });
 
 //create the actor model
 const Actor = mongoose.model('Actor', actorSchema);

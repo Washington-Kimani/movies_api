@@ -26,6 +26,9 @@ This API uses the following environment variables:
 - `/genres/{id}` - Get a specific genre by ID
 
 ## Usage
+You can first use the data in the json files to create the first few entries. If you're using mongoDB, use the MongoDB Compass to import the data. This is possible for atlas as well.
+</br>
+</br>
 To use this API, you can make a GET request to the appropriate endpoint with the appropriate ID. For example, to get all movies, you can make a GET request to `/movies`. To get a specific movie by ID, you can make a GET request to `/movies/{id}`.
 ## Example
 Here's an example of how to use the API to get all movies:

@@ -1,6 +1,7 @@
 import Actor from '../models/actors.model.js';
 import {v2 as cloudinary} from 'cloudinary';
 import dotenv from 'dotenv';
+import mongoose from'mongoose';
 
 dotenv.config();
 
@@ -29,6 +30,33 @@ export const getActorById = async (req, res) => {
         console.log(err);
     }
 }
+
+export const searchActors = async (req, res) => {
+    const query = req.query.q;
+
+    // Log the query to debug
+    console.log('Search Query:', query);
+
+    // Check if the query looks like an ObjectId
+    if (mongoose.Types.ObjectId.isValid(query)) {
+        return res.status(400).json({ error: 'Invalid search query (ObjectId format). Please search by name or bio.' });
+    }
+
+    try {
+        // Perform the search using the name field and a case-insensitive regex
+        const actors = await Actor.find({
+            name: { $regex: new RegExp(query + '.*', 'i') }
+        }).exec();
+
+        // Return the results as JSON
+        res.status(200).json(actors[0]);
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ error: 'An error occurred while searching for actors.' });
+    }
+};
+
+
 
 // cloudinary configuration
 cloudinary.config({

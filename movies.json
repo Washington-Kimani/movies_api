@@ -1,0 +1,182 @@
+[
+  {
+    "name": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "release_year": 1994,
+    "rating": 9.3,
+    "genre": ["Drama"],
+    "director": "Frank Darabont",
+    "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/e0/89/e0898dd2a6184b11b7e01f155eaa8f75/e0898dd2a6184b11b7e01f155eaa8f75.jpg"
+  },
+  {
+    "name": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "release_year": 1972,
+    "rating": 9.2,
+    "genre": ["Crime", "Drama"],
+    "director": "Francis Ford Coppola",
+    "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/1e/fe/1efe7a04df2a551d7a218247f0e4da89/1efe7a04df2a551d7a218247f0e4da89.jpg"
+  },
+  {
+    "name": "The Dark Knight",
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+    "release_year": 2008,
+    "rating": 9.0,
+    "genre": ["Action", "Crime", "Drama"],
+    "director": "Christopher Nolan",
+    "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/db/3e/db3ee81a2f6cc2b52a80f8c1caea40a0/db3ee81a2f6cc2b52a80f8c1caea40a0.jpg"
+  },
+  {
+    "name": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "release_year": 1994,
+    "rating": 8.9,
+    "genre": ["Crime", "Drama"],
+    "director": "Quentin Tarantino",
+    "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/a0/fb/a0fb97aa81c5d6e644a3dae669253451/a0fb97aa81c5d6e644a3dae669253451.jpg"
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron’s army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "release_year": 2003,
+    "rating": 8.9,
+    "genre": ["Action", "Adventure", "Drama"],
+    "director": "Peter Jackson",
+    "actors": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/06/d5/06d5a29c758764d7725c2b4b015980bc/06d5a29c758764d7725c2b4b015980bc.jpg"
+  },
+  {
+    "name": "Forrest Gump",
+    "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an extraordinary journey.",
+    "release_year": 1994,
+    "rating": 8.8,
+    "genre": ["Drama", "Romance"],
+    "director": "Robert Zemeckis",
+    "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/b6/c5/b6c5f5949fe301897b5203a2a04ee047/b6c5f5949fe301897b5203a2a04ee047.jpg"
+  },
+  {
+    "name": "Inception",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the task of implanting an idea into the mind of a CEO.",
+    "release_year": 2010,
+    "rating": 8.8,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "director": "Christopher Nolan",
+    "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/2d/03/2d0304dfe44b3e7e2cccc313b7ec6104/2d0304dfe44b3e7e2cccc313b7ec6104.jpg"
+  },
+  {
+    "name": "Fight Club",
+    "description": "An insomniac office worker, looking for a way to change his life, crosses paths with a soap salesman.",
+    "release_year": 1999,
+    "rating": 8.8,
+    "genre": ["Drama"],
+    "director": "David Fincher",
+    "actors": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/c8/67/c867cdf6d0a0683fa88ada21ec51671a/c867cdf6d0a0683fa88ada21ec51671a.jpg"
+  },
+  {
+    "name": "The Matrix",
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "release_year": 1999,
+    "rating": 8.7,
+    "genre": ["Action", "Sci-Fi"],
+    "director": "The Wachowskis",
+    "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/e5/10/e510db60b0ea7b6584ee972b466cc212/e510db60b0ea7b6584ee972b466cc212.jpg"
+  },
+  {
+    "name": "The Empire Strikes Back",
+    "description": "After the rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader.",
+    "release_year": 1980,
+    "rating": 8.7,
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "director": "Irvin Kershner",
+    "actors": ["Mark Hamill", "Harrison Ford", "Carrie Fisher"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/79/51/7951a5cc730d513bc119b6625e469d23/7951a5cc730d513bc119b6625e469d23.jpg"
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "description": "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
+    "release_year": 1991,
+    "rating": 8.6,
+    "genre": ["Crime", "Drama", "Thriller"],
+    "director": "Jonathan Demme",
+    "actors": ["Jodie Foster", "Anthony Hopkins", "Lawrence A. Bonney"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/1a/48/1a487cd4d8b1f1141f853ef20f6b515f/1a487cd4d8b1f1141f853ef20f6b515f.jpg"
+  },
+  {
+    "name": "Se7en",
+    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.",
+    "release_year": 1995,
+    "rating": 8.6,
+    "genre": ["Crime", "Drama", "Mystery"],
+    "director": "David Fincher",
+    "actors": ["Brad Pitt", "Morgan Freeman", "Kevin Spacey"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/bf/bd/bfbd1ea96fb959c7c93df98b9ea726ce/bfbd1ea96fb959c7c93df98b9ea726ce.jpg"
+  },
+  {
+    "name": "Interstellar",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "release_year": 2014,
+    "rating": 8.6,
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "director": "Christopher Nolan",
+    "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/82/71/82718ed9a7ece105be98bb3d48dd57bf/82718ed9a7ece105be98bb3d48dd57bf.jpg"
+  },
+  {
+    "name": "The Social Network",
+    "description": "Mark Zuckerberg creates Facebook, but is later sued by two brothers who claim he stole their idea, and the Winklevoss twins.",
+    "release_year": 2010,
+    "rating": 8.0,
+    "genre": ["Biography", "Drama"],
+    "director": "David Fincher",
+    "actors": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/0a/62/0a62bd4ee123a8119b2ca2fd26e00ed6/0a62bd4ee123a8119b2ca2fd26e00ed6.jpg"
+  },
+  {
+    "name": "Goodfellas",
+    "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen, and his mob partner Jimmy Conway.",
+    "release_year": 1990,
+    "rating": 8.7,
+    "genre": ["Crime", "Drama"],
+    "director": "Martin Scorsese",
+    "actors": ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/ec/f1/ecf1fc3c211808903aca841b83c6553b/ecf1fc3c211808903aca841b83c6553b.jpg"
+  },
+  {
+    "name": "The Lion King",
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "release_year": 1994,
+    "rating": 8.5,
+    "genre": ["Animation", "Adventure", "Drama"],
+    "director": "Roger Allers",
+    "actors": ["Matthew Broderick", "James Earl Jones", "Jeremy Irons"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/09/39/0939b44d470ba3abf94fb06700a6db4e/0939b44d470ba3abf94fb06700a6db4e.jpg"
+  },
+  {
+    "name": "Spider-Man: No Way Home",
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous enemies from other worlds start to appear.",
+    "release_year": 2021,
+    "rating": 8.3,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "director": "Jon Watts",
+    "actors": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/44/54/4454b905c18670de60b09fd624fccd0c/4454b905c18670de60b09fd624fccd0c.jpg"
+  },
+  {
+    "name": "Parasite",
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "release_year": 2019,
+    "rating": 8.6,
+    "genre": ["Comedy", "Drama", "Thriller"],
+    "director": "Bong Joon-ho",
+    "actors": ["Kang-ho Song", "Lee Sun-kyun", "Cho Yeo-jeong"],
+    "poster": "https://f.woowoowoowoo.net/resize/180x271/46/7d/467dcdb02f64901ea63dd3f549959f5f/467dcdb02f64901ea63dd3f549959f5f.jpg"
+  }
+]

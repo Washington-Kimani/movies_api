@@ -22,7 +22,7 @@ import {
     getMovieById,
     createMovie,
     updateMovie,
-    deleteMovie
+    deleteMovie, searchMovie
 } from '../controllers/movie.controllers.js';
 
 // Middleware to check if user is authenticated
@@ -32,10 +32,17 @@ import { isAuthenticated } from '../middlewares/auth.middleware.js';
 router.use(isAuthenticated);
 
 // Routes
+// route to get all movies
 router.get('/', getAllMovies);
+// route to get movie by id
 router.get('/:id', getMovieById);
+// route to search movies by title
+router.post('/search', searchMovie);
+// route to create a movie
 router.post('/', upload.single('poster'), createMovie);
+// route to update a movie
 router.put('/:id', upload.single('poster'), updateMovie);
+// route to delete a movie
 router.delete('/:id', deleteMovie);
 
 

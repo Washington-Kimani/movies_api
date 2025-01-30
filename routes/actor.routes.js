@@ -9,13 +9,23 @@ const router = Router();
 router.use(isAuthenticated);
 
 // import controllers
-import {getAllActors, getActorById, createActor, updateActor, deleteActor} from "../controllers/actor.controllers.js";
+import {
+    getAllActors,
+    getActorById,
+    createActor,
+    updateActor,
+    deleteActor,
+    searchActors
+} from "../controllers/actor.controllers.js";
 
 //get all actors
 router.get('/', getAllActors);
 
 //get actor by id
 router.get('/:id', getActorById);
+
+// get actor by query
+router.post('/search', searchActors);
 
 //create actor
 router.post('/', createActor);
