@@ -28,6 +28,10 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
 //routes
+// root route
+app.get('/', (req, res) => {
+    res.send('Welcome to Movies API');
+});
 // auth route
 app.use('/api/auth', authRoutes);
 // movies route

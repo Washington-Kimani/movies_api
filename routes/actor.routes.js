@@ -5,8 +5,6 @@ import {isAuthenticated} from '../middlewares/auth.middleware.js';
 
 const router = Router();
 
-// use the authentication middleware for all routes
-router.use(isAuthenticated);
 
 // import controllers
 import {
@@ -28,12 +26,12 @@ router.get('/:id', getActorById);
 router.post('/search', searchActors);
 
 //create actor
-router.post('/', createActor);
+router.post('/', isAuthenticated, createActor);
 
 //update actor
-router.put('/:id', updateActor);
+router.put('/:id', isAuthenticated, updateActor);
 
 //delete actor
-router.delete('/:id', deleteActor);
+router.delete('/:id', isAuthenticated, deleteActor);
 
 export default router;
