@@ -28,8 +28,6 @@ import {
 // Middleware to check if user is authenticated
 import { isAuthenticated } from '../middlewares/auth.middleware.js';
 
-// Applying middleware to routes
-router.use(isAuthenticated);
 
 // Routes
 // route to get all movies
@@ -39,11 +37,11 @@ router.get('/:id', getMovieById);
 // route to search movies by title
 router.post('/search', searchMovie);
 // route to create a movie
-router.post('/', upload.single('poster'), createMovie);
+router.post('/', isAuthenticated, upload.single('poster'), createMovie);
 // route to update a movie
-router.put('/:id', upload.single('poster'), updateMovie);
+router.put('/:id', isAuthenticated, upload.single('poster'), updateMovie);
 // route to delete a movie
-router.delete('/:id', deleteMovie);
+router.delete('/:id', isAuthenticated, deleteMovie);
 
 
 export default router;
